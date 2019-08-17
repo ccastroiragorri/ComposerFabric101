@@ -23,7 +23,8 @@ The playground will give you the understanding og the elements that make up a bu
 After you play around with the on-line tutorial you might want to perform a local installation of the development enviorment. Currently you have the official documentation that is supporting [version 1.2](https://hyperledger.github.io/composer/latest/installing/development-tools.html) and [version 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/getting_started.html) (latest and first long term support release). 
 
 1. Follow the installation instructions, this includes the [pre-requisites](https://hyperledger.github.io/composer/latest/installing/installing-prereqs)
-2. Once installation is complete you can start a basic network locally for [version 1.2](https://hyperledger.github.io/composer/latest/tutorials/deploy-to-fabric-single-org) and [version 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/build_network.html) and deploy a *.bna file that contains the business logic of your network. This *.bna was previously build using composer language.
+2. After pre-requisites are installed and verifies, you can bootstrap any version of fabric using bootstrap.sh, follow the [intructions](https://github.com/hyperledger/fabric-samples) 
+3. Once installation is complete you can start a basic network locally for [version 1.2](https://hyperledger.github.io/composer/latest/tutorials/deploy-to-fabric-single-org) and [version 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/build_network.html) and deploy a *.bna file that contains the business logic of your network. This *.bna was previously build using composer language.
 
 ## Working with Fabric and Composer
 
